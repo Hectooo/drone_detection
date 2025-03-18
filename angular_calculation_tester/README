@@ -1,0 +1,9 @@
+To launch the angular calculation test, run the following command:
+
+   python3 angle_calculator.py --img=images/img1.jpg --bus=7 --ptz
+
+[--img] (default = images/img1.jpg) : the path to your test image
+[--bus] (default = 7)		    : the I2C bus used
+[--ptz] 	   		    : connect the PTZ camera
+
+if one of these argument is missing, the default value will be used instead
