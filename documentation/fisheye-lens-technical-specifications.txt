@@ -1,0 +1,24 @@
+SPECIFICATION
+Resolution:  	8mp
+Image Circle: 	Φ4.82mm @180°
+Focal Length: 	1.7mm
+Aperture: 	F2.0
+Mount: 	M12x0.5
+Field Angle D×H×V(°): 		1/1.8″ 	1/2″ 	1/2.5″
+D (°) 	185±5 	185±5 	185±5
+H (°) 	185±5 	185±5 	185±5
+V (°) 	185±5 	180±4.5 	144±3.5
+Optical Distortion: 	-97.51%
+M.O.D.: 	0.15m
+Dimension: 	Φ26×25.8mm
+Weight: 	17.4±2g
+BFL: 	5.38mm
+MBF: 	4.86mm
+IR Correction: 	Yes
+Iris: 	Fixed
+Operating Temperature: 	-30℃～+80℃
+Model: 	ACTM1217IR8MPF
+
+
+
+source : https://aico-lens.com/product/1-7mm-8mp-m12-fisheye-lens-actm1217ir8mpf/ 
